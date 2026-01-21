@@ -1,3 +1,3 @@
 # apnacollege-demo
-this is my first git repository
-author=muzammil umar
+this is my first git repository.
+Author=muzammil umar
